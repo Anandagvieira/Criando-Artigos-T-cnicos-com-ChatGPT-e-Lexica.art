@@ -29,9 +29,13 @@ Conteúdo gerado por ChatGPT e revisões humanas
 _ Coloque 3 hastags que façam sentido
 
 {REGRAS}
+
 	No máximo 5 linhas por blocos de explicação
+
 	Me explique de maneira informal como se eu fosse uma criança de 10 anos
+
 	Os blocos que serão criados estão abaixo
+
 
 ## Conclusão
 Conteúdo gerado por inteligência artificial, revisado 100% por humano, edição humana, voltado para ganho de produtividade DEv.
