@@ -15,15 +15,19 @@ Siga o passo a passo:
 
 ## Assunto
 Iridium – O que é?
+
 ## Título
 Prompt “Crie 5 headlines para nomes de artigos sobre o assunto linguagem de programação Iridium”
 "Guia Completo para Iniciantes: Primeiros Passos com a Linguagem de Programação Iridium"
+
 ## Capa
 Feito com Lexica.Art e Power Point
 Conteúdo gerado por ChatGPT e revisões humanas
+
 ## Blocos
 - Faça um call to action para as minhas redes sociais
 _ Coloque 3 hastags que façam sentido
+
 {REGRAS}
 	No máximo 5 linhas por blocos de explicação
 	Me explique de maneira informal como se eu fosse uma criança de 10 anos
